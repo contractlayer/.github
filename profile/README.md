@@ -8,6 +8,7 @@ Contract infrastructure for developers and AI agents, by [eContract](https://eco
 |---|---|
 | [contractlayer](https://github.com/contractlayer/contractlayer) | Start here: the MCP server, its tools and a config for every AI client |
 | [contract-manager](https://github.com/contractlayer/contract-manager) | REST API examples in Node.js and Python: send, place signatures, links, signed PDF, audit trail |
+| [claude-agent-contracts](https://github.com/contractlayer/claude-agent-contracts) | A contract-signing agent built with the Claude Agent SDK and the eContract MCP server |
 | [verify-pdf](https://github.com/contractlayer/verify-pdf) | Verify the digital signatures in any PDF with one API call, no API key |
 
 [Website](https://econtract.online) · [Developer docs](https://developers.econtract.online/docs) · [Blog](https://econtract.online/blog) · [Verify a PDF](https://econtract.online/verify)
